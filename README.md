@@ -131,13 +131,13 @@ SEO (Search Engine Optimization) — поисковая оптимизация �
 * характеристики товаров;
 * изображения и их описания.
 
-### Репутационное SEO ( Тут у нас всё более-менее в порядке )
+### Репутационное SEO (Рекламные и реферальные ссылки на наш сайт)
 
 Связано с авторитетностью ресурса:
 
-* внешние ссылки;
-* упоминания бренда;
-* публикации на профильных площадках.
+* внешние ссылки на сайт (рекламные в том числе);
+* упоминания бренда (рекламные в том числе);
+* публикации на профильных площадках (рекламные в том числе).
 
 ---
 
@@ -148,7 +148,7 @@ SEO (Search Engine Optimization) — поисковая оптимизация �
 ```text
 H1: Стыковая
 ```
-<a href="https://tehnosvar.ru/products/svarochniemachiny/tochechnaya/stykovaya/" target="_blank" rel="noopener noreferrer">https://tehnosvar.ru/products/svarochniemachiny/tochechnaya/stykovaya/</a>
+<https://tehnosvar.ru/products/svarochniemachiny/tochechnaya/stykovaya/>
 
 
 Поисковику сложно понять тематику страницы.
