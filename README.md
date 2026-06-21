@@ -148,7 +148,8 @@ SEO (Search Engine Optimization) — поисковая оптимизация �
 ```text
 H1: Стыковая
 ```
-https://tehnosvar.ru/products/svarochniemachiny/tochechnaya/stykovaya/
+<a href="https://tehnosvar.ru/products/svarochniemachiny/tochechnaya/stykovaya/" target="_blank" rel="noopener noreferrer">https://tehnosvar.ru/products/svarochniemachiny/tochechnaya/stykovaya/</a>
+
 
 Поисковику сложно понять тематику страницы.
 
